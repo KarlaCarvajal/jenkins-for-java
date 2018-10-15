@@ -1,0 +1,4 @@
+bitbucket-oauth:0.7
+publish-to-bitbucket:0.4
+docker-plugin:1.1.5
+maven-plugin:3.1.2
