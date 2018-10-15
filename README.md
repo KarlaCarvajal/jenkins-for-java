@@ -12,7 +12,7 @@ Just run the script setup_jenkins.sh
 
 `$ sh setup_jenkins.sh`
 
-The script will build a docker image named `machine/jenkins-java-lts` and runs a container named `server-jenkins` exposing the ports `8080, 50000`
+The script will build a docker image named `machine/jenkins-java-lts` and runs a container named `server-jenkins-java` exposing the ports `8080, 50000`
 
 For do tests you can clone the project:
 
